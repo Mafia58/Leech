@@ -4,6 +4,6 @@ Telegram links leeching bot
 
 owner of this repo :- [Mafia](https://github.com/Mafia58)
 
-  <p><a href="https://heroku.com/deploy?template=https://github.com/Mafia58/Leech"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+  <p><a href="https://heroku.com/deploy?template=https://github.com/reaitten/tgtlg"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 Mafia58
 
